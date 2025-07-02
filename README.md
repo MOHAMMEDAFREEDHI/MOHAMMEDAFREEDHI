@@ -9,7 +9,8 @@
 
 - 🌱 I'm currently learning **Unity, Android App Development**
 
-- 👨‍💻 All of my projects are available at [https://demonlawyergt.github.io/](https://MOHAMMEDAFREEDHI.github.io/)
+- 👨‍💻 All of my projects are available at [https://MOHAMMEDAFREEDHI.github.io/](https://MOHAMMEDAFREEDHI.github.io/)
+
 
 - 💬 Ask me about **python, JavaScript, Data Structures and Algorithms**
 
